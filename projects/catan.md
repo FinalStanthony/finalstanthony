@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/1134x1200.jpg
 title: "Catan"
 date: 2019
 published: true
@@ -10,4 +10,4 @@ labels:
 summary: "Kolonisten van Catan nagemaakt voor school"
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/1134x1200.jpg">
